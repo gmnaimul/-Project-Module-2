@@ -1,2 +1,2 @@
 Hello from Jenkins!
-this line was added to check weather jenkins automatically triggers the build
+this line was added to check wheather jenkins automatically triggers the build
